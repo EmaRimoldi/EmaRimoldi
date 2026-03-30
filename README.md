@@ -1,60 +1,66 @@
-<img align="right" src="assets/img/id.png" width="120" alt="Emanuele Rimoldi" />
+<img align="right" src="assets/img/id.png" width="110" alt="Emanuele Rimoldi" />
 
 ## Emanuele Rimoldi
 
-**AI Researcher &middot; MSc Neuro-AI, EPFL**
+**Visiting Researcher, MIT &nbsp;·&nbsp; Cambridge, Massachusetts**
 
-Working at the intersection of machine learning and neuroscience, with a focus on self-supervised learning for physiological signals and biologically informed representations.
-
-[emanuelerimoldi7@gmail.com](mailto:emanuelerimoldi7@gmail.com) &nbsp;&middot;&nbsp;
-[GitHub](https://github.com/EmaRimoldi) &nbsp;&middot;&nbsp;
-[LinkedIn](https://linkedin.com/in/emanuele-rimoldi) &nbsp;&middot;&nbsp;
-[CV](cv/cv_emanuele_rimoldi.pdf)
+*On the mathematical foundations of agents that learn and reason.*
 
 <br clear="right"/>
 
 ---
 
-### Research Interests
+I work on the theoretical and mathematical foundations of artificial intelligence — how learning, generalization, and reasoning arise in agents and machines. My perspective is shaped by physics, neuroscience, and a persistent interest in problems at the edge of current formalization. Drawn to questions that are fundamental, hard, and not yet well-posed.
 
-- Self-supervised &amp; foundation models for physiological signals (EEG, fMRI, EMG)
-- Geometry-aware and conductivity-aware priors for neural recordings
-- Robustness to electrode permutation, dropout, and montage variation
-- Biologically plausible learning — spiking neural networks, AdLIF architectures
-- Representation learning and latent structure in neural data
-- Interpretability and fairness in applied machine learning
+Currently at MIT. Previously at EPFL, ETH Zürich, and Logitech Research.
 
 ---
 
-### Experience
+### Research & Experience
 
-**AI Research Intern** &mdash; Logitech CTO Research Office &mdash; 2024–present
-Spatially invariant foundation models for EEG; contrastive, masked, and autoencoding pipelines with geometry-aware priors.
+**Visiting Researcher** &mdash; MIT &mdash; present
+Mathematical foundations of AI agents; learning and reasoning theory.
 
-**AI Research Intern** &mdash; Idiap Research Institute &mdash; 2024
-Bio-inspired TTS: FastSpeech 2 with AdLIF spiking decoder; biological plausibility and SNN dimensionality in speech synthesis.
+**Research Intern** &mdash; Logitech &mdash; 2024
+Spatially invariant foundation models for EEG; self-supervised learning with geometry-aware priors. Advised by Jonathan Dan.
 
-**Research Intern** &mdash; Campus Biotech, TNE Lab &mdash; 2023
-Thermo-tactile sensory integration for neuroprosthetic feedback; psychophysical study design and statistical modeling.
+**MSc Data Science / Computational Neuroscience** &mdash; EPFL &mdash; in progress
 
-**Research Intern** &mdash; Campus Biotech, Hummel Lab &mdash; 2023
-Fatigue assessment via N-back (MRI/eye-tracking compatible); R pipeline for saccade, pupil, and gaze signal processing.
+**MSc Nuclear Engineering** &mdash; ETH Zürich / EPFL / PSI &mdash; 2023–24
+Transferred to Computational Neuroscience.
 
----
-
-### Selected Projects
-
-**EEG Foundation Models** &mdash; Spatially invariant SSL with contrastive, masked, and autoencoding objectives and geometry-aware priors.
-**Bio-inspired TTS** &mdash; FastSpeech 2 with AdLIF spiking decoder; SNN dimensionality and biological plausibility in speech generation.
-**fMRI Auditory Analysis** &mdash; GLM, PCA, ICA, and K-means on fMRI responses to emotional auditory stimuli.
-**TinyLLMs for Hate Speech** &mdash; PEFT/LoRA fine-tuning with explainability analysis across adaptation strategies.
-**LLM Educational Assistant** &mdash; SFT, DPO, RAG, quantization pipeline for an educational assistant.
+**BSc Applied Physics** &mdash; Politecnico di Milano
+Advised by [Rebecca Re](https://scholar.google.it/citations?hl=it&user=JkVr2VkAAAAJ).
 
 ---
 
-### Skills
+### Academic Mentors
 
-`Python` `PyTorch` `Hugging Face` `scikit-learn` `TensorFlow`
-`MATLAB` `R` `C/C++`
-`Git` `LaTeX` `Jupyter`
-Signal processing &middot; EEG &middot; fMRI &middot; EMG &middot; Psychophysics
+[Tomaso A. Poggio](https://scholar.google.com/citations?hl=en&user=WgAGy7wAAAAJ) &nbsp;&middot;&nbsp;
+[Pierfrancesco Beneventano](https://scholar.google.com/citations?hl=it&user=spL439oAAAAJ) &nbsp;&middot;&nbsp;
+[Florent Krzakala](https://scholar.google.com/citations?hl=en&user=3jDeUlMAAAAJ)
+
+---
+
+### Selected Work
+
+*A curated list of repositories and research code. Updated as projects mature.*
+
+| | |
+|:--|:--|
+| — | — |
+| — | — |
+
+---
+
+### Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmaRimoldi&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default&hide=stars&line_height=24)
+
+---
+
+### Contact
+
+[Google Scholar](#) &nbsp;&middot;&nbsp;
+[Website](https://emarimoldi.github.io/EmaRimoldi) &nbsp;&middot;&nbsp;
+[emanuelerimoldi7@gmail.com](mailto:emanuelerimoldi7@gmail.com)
