@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Emanuele Rimoldi — AI researcher at the intersection of machine learning and neuroscience. MSc Neuro-AI, EPFL." />
+  <title>Emanuele Rimoldi</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ─── Navigation ──────────────────────────────────────────────────── -->
+  <header>
+    <nav>
+      <span class="nav-name">Emanuele Rimoldi</span>
+      <ul class="nav-links">
+        <li><a href="#research">Research</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="cv/cv_emanuele_rimoldi.pdf" target="_blank" rel="noopener">CV</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- ─── Hero ────────────────────────────────────────────────────────── -->
+    <section id="hero">
+      <div class="hero-content">
+        <div class="hero-text">
+          <h1>Emanuele Rimoldi</h1>
+          <p class="subtitle">Neuro-AI Researcher &middot; MSc Student at EPFL</p>
+          <p class="intro">
+            Hello! I'm Emanuele, an AI researcher with a background in engineering physics
+            and a current focus on the intersection of machine learning and neuroscience.
+            I'm enrolled in the MSc Neuro-AI program at EPFL, where my research has spanned
+            self-supervised and foundation model pipelines for EEG signals, biologically
+            plausible speech synthesis with spiking neural networks, and neuroimaging
+            analysis.
+          </p>
+          <p class="intro">
+            I tend to gravitate toward problems where the biology is not just a motivation
+            but a genuine constraint — where taking the physiology seriously changes what
+            the model should look like.
+          </p>
+          <nav class="hero-links" aria-label="Contact links">
+            <a href="mailto:emanuelerimoldi7@gmail.com">Email</a>
+            <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener">LinkedIn</a>
+            <a href="https://github.com/erimoldi" target="_blank" rel="noopener">GitHub</a>
+            <a href="cv/cv_emanuele_rimoldi.pdf" target="_blank" rel="noopener">CV (PDF)</a>
+          </nav>
+        </div>
+        <div class="hero-photo">
+          <img src="assets/img/profile.jpg" alt="Emanuele Rimoldi" />
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── Research Interests ──────────────────────────────────────────── -->
+    <section id="research">
+      <h2>Research Interests</h2>
+      <ul class="interest-list">
+        <li>Self-supervised and foundation models for physiological signals (EEG, fMRI, EMG)</li>
+        <li>Geometric and conductivity-aware priors for neural recordings</li>
+        <li>Biologically plausible learning: spiking neural networks, AdLIF architectures</li>
+        <li>Robustness to electrode permutation, placement shifts, and montage variation</li>
+        <li>Sensory integration and translational neuroscience</li>
+        <li>Interpretability and fairness in applied machine learning</li>
+      </ul>
+    </section>
+
+    <!-- ─── Current Work ────────────────────────────────────────────────── -->
+    <section id="current">
+      <h2>Current Work</h2>
+
+      <div class="work-block">
+        <div class="work-header">
+          <span class="work-org">Logitech Europe SA &mdash; CTO Research Office</span>
+          <span class="work-meta">AI Research Intern &middot; Lausanne</span>
+        </div>
+        <p>
+          Building spatially invariant foundation models for EEG. The central problem is
+          constructing representations that are robust to the spatial and configurational
+          variability of electrode placement — permutation, dropout, and montage shifts —
+          through contrastive learning, masked modeling, and autoencoding objectives with
+          geometry-aware and conductivity-aware priors.
+        </p>
+      </div>
+
+      <div class="work-block">
+        <div class="work-header">
+          <span class="work-org">Idiap Research Institute</span>
+          <span class="work-meta">AI Research Intern &middot; Martigny</span>
+        </div>
+        <p>
+          Developed a bio-inspired text-to-speech system by replacing the FastSpeech 2
+          decoder with AdLIF-based spiking neural network modules. Studied biologically
+          plausible speech synthesis and the effect of SNN decoder dimensionality on
+          generated speech quality.
+        </p>
+      </div>
+    </section>
+
+    <!-- ─── Selected Projects ───────────────────────────────────────────── -->
+    <section id="projects">
+      <h2>Selected Projects</h2>
+
+      <article class="project">
+        <h3>EEG Foundation Models</h3>
+        <p>
+          Spatially invariant self-supervised learning for EEG with contrastive, masked,
+          and autoencoding objectives. Geometry-aware and conductivity-aware architectural
+          priors for robustness to sensor configuration variability in real-world
+          recordings.
+        </p>
+        <p class="project-tags">
+          Self-supervised learning &middot; EEG &middot; Geometric priors &middot; Contrastive learning
+        </p>
+      </article>
+
+      <article class="project">
+        <h3>Bio-inspired TTS &mdash; AdLIF Spiking Decoder</h3>
+        <p>
+          FastSpeech 2 with an AdLIF-based spiking decoder for biologically plausible
+          speech synthesis. Investigation of dimensionality effects and the properties of
+          SNN-generated speech at the architecture level.
+        </p>
+        <p class="project-tags">
+          Spiking neural networks &middot; AdLIF &middot; Text-to-speech &middot; Biological plausibility
+        </p>
+      </article>
+
+      <article class="project">
+        <h3>fMRI Auditory Analysis</h3>
+        <p>
+          Analysis of fMRI responses to emotional auditory stimuli: preprocessing, general
+          linear modeling, dimensionality reduction (PCA, ICA), and unsupervised clustering
+          (K-means) of activation patterns.
+        </p>
+        <p class="project-tags">
+          Neuroimaging &middot; GLM &middot; PCA &middot; ICA &middot; K-means
+        </p>
+      </article>
+
+      <article class="project">
+        <h3>TinyLLMs for Hate Speech Classification</h3>
+        <p>
+          Parameter-efficient fine-tuning (PEFT/LoRA) of small language models for hate
+          speech classification, with explainability analysis comparing adaptation
+          strategies.
+        </p>
+        <p class="project-tags">
+          PEFT &middot; LoRA &middot; Explainability &middot; NLP
+        </p>
+      </article>
+
+      <article class="project">
+        <h3>LLM Educational Assistant</h3>
+        <p>
+          Full fine-tuning pipeline for an educational assistant: supervised fine-tuning,
+          DPO, retrieval-augmented generation, quantization, and reasoning-oriented
+          prompting strategies.
+        </p>
+        <p class="project-tags">
+          SFT &middot; DPO &middot; RAG &middot; Quantization
+        </p>
+      </article>
+    </section>
+
+    <!-- ─── Experience ──────────────────────────────────────────────────── -->
+    <section id="experience">
+      <h2>Experience</h2>
+
+      <div class="entry">
+        <div class="entry-header">
+          <div>
+            <span class="entry-org">Logitech Europe SA &mdash; CTO Research Office</span>
+            <span class="entry-role">AI Research Intern</span>
+          </div>
+          <span class="entry-date">2024 &ndash; present</span>
+        </div>
+        <p>
+          Prototyping spatially invariant foundation models for EEG. Self-supervised
+          pipelines (contrastive, masked modeling, autoencoding) with geometry-aware and
+          conductivity-aware priors. Focus on robustness to electrode permutation, dropout,
+          and montage variation.
+        </p>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <div>
+            <span class="entry-org">Idiap Research Institute</span>
+            <span class="entry-role">AI Research Intern</span>
+          </div>
+          <span class="entry-date">2024</span>
+        </div>
+        <p>
+          Built a bio-inspired TTS system replacing the FastSpeech 2 decoder with
+          AdLIF-based spiking modules. Studied biologically plausible speech synthesis
+          and SNN dimensionality effects.
+        </p>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <div>
+            <span class="entry-org">Campus Biotech &mdash; Translational Neural Engineering Lab</span>
+            <span class="entry-role">Research Intern</span>
+          </div>
+          <span class="entry-date">2023</span>
+        </div>
+        <p>
+          Thermo-tactile sensory integration for noninvasive neuroprosthetic feedback.
+          Designed psychophysical studies and applied statistical modeling to behavioral
+          data.
+        </p>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <div>
+            <span class="entry-org">Campus Biotech &mdash; Hummel Lab</span>
+            <span class="entry-role">Research Intern</span>
+          </div>
+          <span class="entry-date">2023</span>
+        </div>
+        <p>
+          MRI- and eye-tracking-compatible fatigue assessment using N-back paradigms. Built
+          an R pipeline for saccade, pupil size, and gaze signal processing; extracted
+          time-series features from behavioral and physiological recordings.
+        </p>
+      </div>
+    </section>
+
+    <!-- ─── Education ───────────────────────────────────────────────────── -->
+    <section id="education">
+      <h2>Education</h2>
+
+      <div class="entry">
+        <div class="entry-header">
+          <div>
+            <span class="entry-org">EPFL</span>
+            <span class="entry-role">MSc Neuro-AI, minor in Data Science</span>
+          </div>
+          <span class="entry-date">Feb 2024 &ndash; present</span>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <div>
+            <span class="entry-org">EPFL / ETH Z&uuml;rich / PSI</span>
+            <span class="entry-role">MSc Nuclear Engineering <span class="entry-note">(transferred to Neuro-AI)</span></span>
+          </div>
+          <span class="entry-date">Sep &ndash; Feb 2023&ndash;24</span>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <div>
+            <span class="entry-org">Politecnico di Milano</span>
+            <span class="entry-role">BSc Engineering Physics (Applied Physics)</span>
+          </div>
+          <span class="entry-date"></span>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── Contact ─────────────────────────────────────────────────────── -->
+    <section id="contact">
+      <h2>Contact</h2>
+      <p class="contact-note">
+        I'm glad to hear from researchers and collaborators. The best way to reach me
+        is by email.
+      </p>
+      <nav class="contact-links" aria-label="Contact and profile links">
+        <a href="mailto:emanuelerimoldi7@gmail.com">emanuelerimoldi7@gmail.com</a>
+        <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://github.com/erimoldi" target="_blank" rel="noopener">GitHub</a>
+        <a href="cv/cv_emanuele_rimoldi.pdf" target="_blank" rel="noopener">CV (PDF)</a>
+      </nav>
+    </section>
+
+  </main>
+
+  <!-- ─── Footer ──────────────────────────────────────────────────────── -->
+  <footer>
+    <p>Emanuele Rimoldi &middot; Lausanne, Switzerland</p>
+  </footer>
+
+</body>
+</html>
