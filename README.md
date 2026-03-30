@@ -66,7 +66,7 @@ Full fine-tuning pipeline: SFT, DPO, RAG, quantization, and reasoning-oriented p
 
 ### Links
 
-[Homepage](https://erimoldi.github.io) &nbsp;&middot;&nbsp;
+[Homepage](https://emarimoldi.github.io) &nbsp;&middot;&nbsp;
 [CV (PDF)](cv/cv_emanuele_rimoldi.pdf) &nbsp;&middot;&nbsp;
 [emanuelerimoldi7@gmail.com](mailto:emanuelerimoldi7@gmail.com) &nbsp;&middot;&nbsp;
-[LinkedIn](https://linkedin.com/in/your-profile)
+[LinkedIn](https://linkedin.com/in/emanuele-rimoldi)
