@@ -22,19 +22,54 @@ If you’re interested in collaborating — or just having a quick chat — feel
 
 ### Research & Experience
 
-| Role | Location |
-|:--|--:|
-| **Visiting Researcher:** [MIT](https://www.mit.edu/) | Cambridge, MA |
-| **AI Research Intern:** [Idiap Research Institute](https://www.idiap.ch/) | Martigny, Switzerland |
-| **AI Research Intern:** [Logitech](https://www.logitech.com/) Switzerland, CTO Research Office | Lausanne, Switzerland |
-| **Research Intern:** [Campus Biotech](https://campusbiotech.ch/) | Geneva, Switzerland |
+<ul>
+  <li>
+    <span style="display:flex; justify-content:space-between; gap:12px; width:100%;">
+      <span><strong>Visiting Researcher:</strong> <a href="https://www.mit.edu/">MIT</a></span>
+      <span>Cambridge, MA</span>
+    </span>
+  </li>
+  <li>
+    <span style="display:flex; justify-content:space-between; gap:12px; width:100%;">
+      <span><strong>AI Research Intern:</strong> <a href="https://www.idiap.ch/">Idiap Research Institute</a></span>
+      <span>Martigny, Switzerland</span>
+    </span>
+  </li>
+  <li>
+    <span style="display:flex; justify-content:space-between; gap:12px; width:100%;">
+      <span><strong>AI Research Intern:</strong> <a href="https://www.logitech.com/">Logitech</a> Switzerland, CTO Research Office</span>
+      <span>Lausanne, Switzerland</span>
+    </span>
+  </li>
+  <li>
+    <span style="display:flex; justify-content:space-between; gap:12px; width:100%;">
+      <span><strong>Research Intern:</strong> <a href="https://campusbiotech.ch/">Campus Biotech</a></span>
+      <span>Geneva, Switzerland</span>
+    </span>
+  </li>
+</ul>
 
 ---
 
 ### Education
 
-| Program | Location |
-|:--|--:|
-| **MSc Neuro-X (Data Science & Computational Neuroscience):** [EPFL](https://www.epfl.ch/) | Lausanne, Switzerland |
-| **MSc Nuclear Engineering:** [ETH Zürich](https://ethz.ch/) / [EPFL](https://www.epfl.ch/) / [PSI](https://www.psi.ch/) *(transferred)* | Zürich / Lausanne / Villigen, Switzerland |
-| **BSc Engineering Physics:** [Politecnico di Milano](https://www.polimi.it/) | Milan, Italy |
+<ul>
+  <li>
+    <span style="display:flex; justify-content:space-between; gap:12px; width:100%;">
+      <span><strong>MSc Neuro-X (Data Science &amp; Computational Neuroscience):</strong> <a href="https://www.epfl.ch/">EPFL</a></span>
+      <span>Lausanne, Switzerland</span>
+    </span>
+  </li>
+  <li>
+    <span style="display:flex; justify-content:space-between; gap:12px; width:100%;">
+      <span><strong>MSc Nuclear Engineering:</strong> <a href="https://ethz.ch/">ETH Z&uuml;rich</a> / <a href="https://www.epfl.ch/">EPFL</a> / <a href="https://www.psi.ch/">PSI</a> <em>(transferred)</em></span>
+      <span>Z&uuml;rich / Lausanne / Villigen, Switzerland</span>
+    </span>
+  </li>
+  <li>
+    <span style="display:flex; justify-content:space-between; gap:12px; width:100%;">
+      <span><strong>BSc Engineering Physics:</strong> <a href="https://www.polimi.it/">Politecnico di Milano</a></span>
+      <span>Milan, Italy</span>
+    </span>
+  </li>
+</ul>
