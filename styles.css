@@ -263,12 +263,6 @@ h1 {
   color: var(--text);
 }
 
-.entry-compact-loc {
-  font-size: 0.825rem;
-  color: var(--secondary);
-  white-space: nowrap;
-}
-
 .entry-compact-date {
   margin-left: auto;
   font-size: 0.8rem;

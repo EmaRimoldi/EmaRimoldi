@@ -22,10 +22,10 @@ If you’re interested in collaborating — or just having a quick chat — feel
 
 ### Research & Experience
 
-- **Visiting Researcher:** [MIT](https://www.mit.edu/) (Cambridge, MA)
-- **AI Research Intern:** [Idiap Research Institute](https://www.idiap.ch/) (Martigny, Switzerland)
+- **Visiting Researcher:** [MIT](https://www.mit.edu/)
+- **AI Research Intern:** [Idiap Research Institute](https://www.idiap.ch/)
 - **AI Research Intern:** [Logitech](https://www.logitech.com/) Switzerland, CTO Research Office
-- **Research Intern:** [Campus Biotech](https://campusbiotech.ch/) (Geneva, Switzerland)
+- **Research Intern:** [Campus Biotech](https://campusbiotech.ch/)
 
 ---
 
