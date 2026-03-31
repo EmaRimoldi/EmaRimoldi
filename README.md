@@ -4,7 +4,7 @@ I'm **currently** a Visiting Researcher at **MIT**, fortunately advised by [Pier
 
 At **Logitech**’s CTO office I researched foundation models with [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ); at **Idiap** with [Phil Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ) I worked on **bio-inspired TTS** and **spiking neural networks**.
 
-**Education:** **Polimi** (BSc, engineering physics) → **nuclear engineering** (**ETH / EPFL / PSI**) → **MSc Neuro-X** (Data Science & Computational Neuroscience) @ **EPFL**. Still the same person; the questions just got nosier 🐇
+**Education:** **Polimi** (BSc, engineering physics) → **ETH / EPFL / PSI** (MSc, nuclear engineering) → **EPFL** (MSc Neuro-X, Data Science & Computational Neuroscience). Still the same person; the questions just got nosier 🐇
 
 If you want to collaborate or swap ideas (coffee optional), say hi — I’m always happy to learn from other people’s notebooks 🤝
 
