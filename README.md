@@ -2,7 +2,7 @@
 
 Hello! I’m Emanuele 👋 — currently a Visiting Researcher at MIT, fortunately advised by [Pierfrancesco Beneventano](https://scholar.google.com/citations?user=spL439oAAAAJ) and [Tomaso Poggio](https://scholar.google.com/citations?user=WgAGy7wAAAAJ). I work on the mathematical foundations of agentic AI systems: how learning, generalization, and reasoning emerge when agents interact with the world 🧠📐
 
-Previously, I was a Research Intern in the Logitech Switzerland CTO Research Office, where I worked on pretraining and post-training foundation models (advised by [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ)). I also interned at the Idiap Research Institute (advised by [Phil Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ)), focusing on bio-inspired TTS systems and spiking neural networks.
+Previously, I was a Research Intern in the Logitech CTO Research Office, where I worked on pretraining and post-training foundation models (advised by [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ)). I also interned at the Idiap Research Institute (advised by [Phil Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ)), focusing on bio-inspired TTS systems and spiking neural networks.
 
 Outside the lab, I’m not just a nerd: you’ll find me doing sports (preferably outdoors), taking photos, and generally being curious about pretty much everything 🚴‍♂️🏔️📷
 
@@ -24,7 +24,7 @@ If you’re interested in collaborating — or just having a quick chat — feel
 
 - **Visiting Researcher:** [MIT](https://www.mit.edu/)
 - **AI Research Intern:** [Idiap Research Institute](https://www.idiap.ch/)
-- **AI Research Intern:** [Logitech](https://www.logitech.com/) Switzerland, CTO Research Office
+- **AI Research Intern:** [Logitech](https://www.logitech.com/), CTO Research Office
 - **Research Intern:** [Campus Biotech](https://campusbiotech.ch/)
 
 ---
@@ -32,5 +32,5 @@ If you’re interested in collaborating — or just having a quick chat — feel
 ### Education
 
 - **MSc Neuro-X (Data Science & Computational Neuroscience):** [EPFL](https://www.epfl.ch/)
-- **MSc Nuclear Engineering:** [ETH Zürich](https://ethz.ch/) / [EPFL](https://www.epfl.ch/) / [PSI](https://www.psi.ch/) (transferred)
+- **MSc Nuclear Engineering:** [ETH Zürich](https://ethz.ch/) / [EPFL](https://www.epfl.ch/) / [PSI](https://www.psi.ch/)
 - **BSc Engineering Physics:** [Politecnico di Milano](https://www.polimi.it/)
