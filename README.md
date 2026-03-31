@@ -10,27 +10,28 @@
 
 ---
 
-I work on the theoretical and mathematical foundations of artificial intelligence — how learning, generalization, and reasoning arise in agents and machines. My perspective is shaped by physics, neuroscience, and a persistent interest in problems at the edge of current formalization. Drawn to questions that are fundamental, hard, and not yet well-posed.
+I build robust representations for physiological signals (EEG, fMRI, EMG), bridging self-supervised learning with biologically grounded priors.
 
-Currently at MIT. Previously at EPFL, ETH Zürich, and Logitech Research.
+Currently at MIT. Previously at EPFL, ETH Zürich, Logitech Research, and Idiap/IDIAP.
 
 ---
 
 ### Research & Experience
 
-**Visiting Researcher** &mdash; MIT &mdash; present
-Mathematical foundations of AI agents; learning and reasoning theory.
+- **Visiting Researcher** — MIT — *present* (Cambridge, MA)
+- **AI Researcher** — IDIAP Research Center — *2025–present* (Martigny, Valais)
+- **AI Research Intern** — Logitech Europe SA, CTO Research Office — *2024–present* (Lausanne, Switzerland)
+- **AI Research Intern** — Idiap Research Institute — *2024* (Martigny, Switzerland)
+- **Research Intern** — Campus Biotech, Translational Neural Engineering Lab — *2023* (Geneva, Switzerland)
+- **Research Intern** — Campus Biotech, Hummel Lab — *2023* (Geneva, Switzerland)
 
-**Research Intern** &mdash; Logitech &mdash; 2024
-Spatially invariant foundation models for EEG; self-supervised learning with geometry-aware priors. Advised by Jonathan Dan.
+---
 
-**MSc Data Science / Computational Neuroscience** &mdash; EPFL &mdash; in progress
+### Education
 
-**MSc Nuclear Engineering** &mdash; ETH Zürich / EPFL / PSI &mdash; 2023–24
-Transferred to Computational Neuroscience.
-
-**BSc Applied Physics** &mdash; Politecnico di Milano
-Advised by [Rebecca Re](https://scholar.google.it/citations?hl=it&user=JkVr2VkAAAAJ).
+- **MSc Neuro-AI** — <img src="assets/img/logo-epfl.svg" width="14" height="14" alt="EPFL" /> EPFL — *in progress*
+- **MSc Nuclear Engineering** — <img src="assets/img/logo-ethz.svg" width="14" height="14" alt="ETH Zürich" /> ETH Zürich / <img src="assets/img/logo-epfl.svg" width="14" height="14" alt="EPFL" /> EPFL / <img src="assets/img/logo-psi.svg" width="14" height="14" alt="PSI" /> PSI — *2023–24* (transferred)
+- **BSc Engineering Physics** — <img src="assets/img/logo-polimi.svg" width="14" height="14" alt="Politecnico di Milano" /> Politecnico di Milano
 
 ---
 
@@ -39,17 +40,6 @@ Advised by [Rebecca Re](https://scholar.google.it/citations?hl=it&user=JkVr2VkAA
 [Tomaso A. Poggio](https://scholar.google.com/citations?hl=en&user=WgAGy7wAAAAJ) &nbsp;&middot;&nbsp;
 [Pierfrancesco Beneventano](https://scholar.google.com/citations?hl=it&user=spL439oAAAAJ) &nbsp;&middot;&nbsp;
 [Florent Krzakala](https://scholar.google.com/citations?hl=en&user=3jDeUlMAAAAJ)
-
----
-
-### Selected Work
-
-*A curated list of repositories and research code. Updated as projects mature.*
-
-| | |
-|:--|:--|
-| — | — |
-| — | — |
 
 ---
 
