@@ -18,24 +18,6 @@ If you’re interested in collaborating — or just having a quick chat — feel
   <a href="https://emarimoldi.github.io/EmaRimoldi" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MIT-8A8A8A?style=flat-square&logo=mit&logoColor=white" alt="MIT"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Idiap-6B7280?style=flat-square&logo=googlescholar&logoColor=white" alt="Idiap"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Logitech-00BFA5?style=flat-square&logo=logitech&logoColor=white" alt="Logitech"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Campus%20Biotech-111111?style=flat-square&logo=buffer&logoColor=white" alt="Campus Biotech"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/EPFL-E30613?style=flat-square&logo=academia&logoColor=white" alt="EPFL"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/ETH%20Z%C3%BCrich-0B1F3B?style=flat-square&logo=academia&logoColor=white" alt="ETH Zürich"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/PSI-374151?style=flat-square&logo=academia&logoColor=white" alt="PSI"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Polimi-991B1B?style=flat-square&logo=academia&logoColor=white" alt="Politecnico di Milano"/>
-</p>
-
 ---
 
 ### Research & Experience
