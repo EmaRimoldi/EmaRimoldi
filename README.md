@@ -1,3 +1,5 @@
+<img align="right" src="assets/img/id.png" width="130" height="130" style="object-fit: cover; border-radius: 12px;" alt="Emanuele" />
+
 ## Emanuele Rimoldi
 
 Hello! I’m Emanuele 👋 — currently a Visiting Researcher at MIT, fortunately advised by [Pierfrancesco Beneventano](https://scholar.google.com/citations?user=spL439oAAAAJ) and [Tomaso Poggio](https://scholar.google.com/citations?user=WgAGy7wAAAAJ). I work on the mathematical foundations of agentic AI systems: how learning, generalization, and reasoning emerge when agents interact with the world 🧠📐

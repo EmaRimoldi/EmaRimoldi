@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Idiap">
-  <rect width="256" height="256" fill="none"/>
-  <circle cx="92" cy="128" r="18" fill="#111111"/>
-  <path fill="#111111" d="M126 86h22v84h-22V86zm44 0h30v18h-30V86zm0 33h24v18h-24v-18zm0 33h30v18h-30v-18z"/>
-</svg>
