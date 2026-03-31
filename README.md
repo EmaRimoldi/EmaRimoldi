@@ -22,15 +22,15 @@ If you’re interested in collaborating — or just having a quick chat — feel
 
 ### Research & Experience
 
-- **Visiting Researcher:** MIT (Cambridge, MA)
-- **AI Research Intern:** Idiap Research Institute (Martigny, Switzerland)
-- **AI Research Intern:** Logitech Switzerland, CTO Research Office
-- **Research Intern:** Campus Biotech (Geneva, Switzerland)
+- **Visiting Researcher:** [MIT](https://www.mit.edu/) (Cambridge, MA)
+- **AI Research Intern:** [Idiap Research Institute](https://www.idiap.ch/) (Martigny, Switzerland)
+- **AI Research Intern:** [Logitech](https://www.logitech.com/) Switzerland, CTO Research Office
+- **Research Intern:** [Campus Biotech](https://campusbiotech.ch/) (Geneva, Switzerland)
 
 ---
 
 ### Education
 
-- **MSc Neuro-X (Data Science & Computational Neuroscience):** EPFL
-- **MSc Nuclear Engineering:** ETH Zürich / EPFL / PSI (transferred)
-- **BSc Engineering Physics:** Politecnico di Milano
+- **MSc Neuro-X (Data Science & Computational Neuroscience):** [EPFL](https://www.epfl.ch/)
+- **MSc Nuclear Engineering:** [ETH Zürich](https://ethz.ch/) / [EPFL](https://www.epfl.ch/) / [PSI](https://www.psi.ch/) (transferred)
+- **BSc Engineering Physics:** [Politecnico di Milano](https://www.polimi.it/)
