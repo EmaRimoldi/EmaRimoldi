@@ -1,45 +1,35 @@
-<img align="right" src="assets/img/id.png" width="110" alt="Emanuele Rimoldi" />
-
 ## Emanuele Rimoldi
 
 **Visiting Researcher, MIT &nbsp;·&nbsp; Cambridge, Massachusetts**
 
 *On the mathematical foundations of agents that learn and reason.*
 
-<br clear="right"/>
-
 ---
 
-I build robust representations for physiological signals (EEG, fMRI, EMG), bridging self-supervised learning with biologically grounded priors.
+Hello! I’m Emanuele Rimoldi 👋 — currently a Visiting Researcher at MIT, fortunately advised by Pierfrancesco Beneventano and Tomaso Poggio. I work on the mathematical foundations of agentic AI systems: how learning, generalization, and reasoning emerge when agents interact with the world 🧠📐
 
-Currently at MIT. Previously at EPFL, ETH Zürich, Logitech Research, and Idiap/IDIAP.
+Previously, I was a Research Intern in the Logitech Switzerland CTO Research Office, where I worked on pretraining and post-training foundation models (advised by Jonathan Dan). I also interned at the Idiap Research Institute (advised by Phil Garner), focusing on bio-inspired TTS systems and spiking neural networks.
+
+Outside the lab, I’m not just a nerd: you’ll find me doing sports (preferably outdoors), taking photos, and generally being curious about pretty much everything 🚴‍♂️🏔️📷
+
+If you’re interested in collaborating — or just having a quick chat — feel free to reach out. I genuinely believe everyone has something to teach; it mostly depends on how willing we are to listen 🤝
 
 ---
 
 ### Research & Experience
 
-- **Visiting Researcher** — MIT — *present* (Cambridge, MA)
-- **AI Researcher** — IDIAP Research Center — *2025–present* (Martigny, Valais)
-- **AI Research Intern** — Logitech Europe SA, CTO Research Office — *2024–present* (Lausanne, Switzerland)
-- **AI Research Intern** — Idiap Research Institute — *2024* (Martigny, Switzerland)
-- **Research Intern** — Campus Biotech, Translational Neural Engineering Lab — *2023* (Geneva, Switzerland)
-- **Research Intern** — Campus Biotech, Hummel Lab — *2023* (Geneva, Switzerland)
+- **Visiting Researcher** — MIT (Cambridge, MA)
+- **AI Researcher / AI Research Intern** — IDIAP Research Center / Idiap Research Institute (Martigny, Valais)
+- **Research Intern** — Logitech Switzerland, CTO Research Office (Lausanne, Switzerland)
+- **Research Intern** — Campus Biotech (Geneva, Switzerland)
 
 ---
 
 ### Education
 
-- **MSc Neuro-AI** — <img src="assets/img/logo-epfl.svg" width="14" height="14" alt="EPFL" /> EPFL — *in progress*
-- **MSc Nuclear Engineering** — <img src="assets/img/logo-ethz.svg" width="14" height="14" alt="ETH Zürich" /> ETH Zürich / <img src="assets/img/logo-epfl.svg" width="14" height="14" alt="EPFL" /> EPFL / <img src="assets/img/logo-psi.svg" width="14" height="14" alt="PSI" /> PSI — *2023–24* (transferred)
+- **MSc Neuro-AI** — <img src="assets/img/logo-epfl.svg" width="14" height="14" alt="EPFL" /> EPFL
+- **MSc Nuclear Engineering** — <img src="assets/img/logo-ethz.svg" width="14" height="14" alt="ETH Zürich" /> ETH Zürich / <img src="assets/img/logo-epfl.svg" width="14" height="14" alt="EPFL" /> EPFL / <img src="assets/img/logo-psi.svg" width="14" height="14" alt="PSI" /> PSI (transferred)
 - **BSc Engineering Physics** — <img src="assets/img/logo-polimi.svg" width="14" height="14" alt="Politecnico di Milano" /> Politecnico di Milano
-
----
-
-### Academic Mentors
-
-[Tomaso A. Poggio](https://scholar.google.com/citations?hl=en&user=WgAGy7wAAAAJ) &nbsp;&middot;&nbsp;
-[Pierfrancesco Beneventano](https://scholar.google.com/citations?hl=it&user=spL439oAAAAJ) &nbsp;&middot;&nbsp;
-[Florent Krzakala](https://scholar.google.com/citations?hl=en&user=3jDeUlMAAAAJ)
 
 ---
 
