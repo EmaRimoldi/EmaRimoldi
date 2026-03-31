@@ -15,7 +15,7 @@ If you’re interested in collaborating — or just having a quick chat — feel
   &nbsp;
   <a href="https://github.com/EmaRimoldi" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   &nbsp;
-  <a href="https://emarimoldi.github.io/EmaRimoldi" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
+  <a href="https://emarimoldi.github.io/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
