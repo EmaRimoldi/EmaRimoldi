@@ -19,36 +19,36 @@ If you’re interested in collaborating — or just having a quick chat — feel
 </p>
 
 <p align="left">
-  <img src="assets/img/logo-mit.svg" width="18" height="18" alt="MIT" />
+  <img src="https://img.shields.io/badge/MIT-8A8A8A?style=flat-square&logo=mit&logoColor=white" alt="MIT"/>
   &nbsp;
-  <img src="assets/img/logo-idiap.svg" width="18" height="18" alt="Idiap" />
+  <img src="https://img.shields.io/badge/Idiap-6B7280?style=flat-square&logo=googlescholar&logoColor=white" alt="Idiap"/>
   &nbsp;
-  <img src="assets/img/logo-logitech.svg" width="18" height="18" alt="Logitech" />
+  <img src="https://img.shields.io/badge/Logitech-00BFA5?style=flat-square&logo=logitech&logoColor=white" alt="Logitech"/>
   &nbsp;
-  <img src="assets/img/logo-campusbiotech.svg" width="18" height="18" alt="Campus Biotech" />
+  <img src="https://img.shields.io/badge/Campus%20Biotech-111111?style=flat-square&logo=buffer&logoColor=white" alt="Campus Biotech"/>
   &nbsp;
-  <img src="assets/img/logo-epfl.svg" width="18" height="18" alt="EPFL" />
+  <img src="https://img.shields.io/badge/EPFL-E30613?style=flat-square&logo=academia&logoColor=white" alt="EPFL"/>
   &nbsp;
-  <img src="assets/img/logo-ethz.svg" width="18" height="18" alt="ETH Zürich" />
+  <img src="https://img.shields.io/badge/ETH%20Z%C3%BCrich-0B1F3B?style=flat-square&logo=academia&logoColor=white" alt="ETH Zürich"/>
   &nbsp;
-  <img src="assets/img/logo-psi.svg" width="18" height="18" alt="PSI" />
+  <img src="https://img.shields.io/badge/PSI-374151?style=flat-square&logo=academia&logoColor=white" alt="PSI"/>
   &nbsp;
-  <img src="assets/img/logo-polimi.svg" width="18" height="18" alt="Politecnico di Milano" />
+  <img src="https://img.shields.io/badge/Polimi-991B1B?style=flat-square&logo=academia&logoColor=white" alt="Politecnico di Milano"/>
 </p>
 
 ---
 
 ### Research & Experience
 
-- **Visiting Researcher:** <img src="assets/img/logo-mit.svg" width="14" height="14" alt="MIT" /> MIT (Cambridge, MA)
-- **AI Research Intern:** <img src="assets/img/logo-idiap.svg" width="14" height="14" alt="Idiap" /> Idiap Research Institute (Martigny, Switzerland)
-- **AI Research Intern:** <img src="assets/img/logo-logitech.svg" width="14" height="14" alt="Logitech" /> Logitech Switzerland, CTO Research Office
-- **Research Intern:** <img src="assets/img/logo-campusbiotech.svg" width="14" height="14" alt="Campus Biotech" /> Campus Biotech (Geneva, Switzerland)
+- **Visiting Researcher:** MIT (Cambridge, MA)
+- **AI Research Intern:** Idiap Research Institute (Martigny, Switzerland)
+- **AI Research Intern:** Logitech Switzerland, CTO Research Office
+- **Research Intern:** Campus Biotech (Geneva, Switzerland)
 
 ---
 
 ### Education
 
-- **MSc Neuro-X (Data Science & Computational Neuroscience):** <img src="assets/img/logo-epfl.svg" width="14" height="14" alt="EPFL" /> EPFL
-- **MSc Nuclear Engineering:** <img src="assets/img/logo-ethz.svg" width="14" height="14" alt="ETH Zürich" /> ETH Zürich / <img src="assets/img/logo-epfl.svg" width="14" height="14" alt="EPFL" /> EPFL / <img src="assets/img/logo-psi.svg" width="14" height="14" alt="PSI" /> PSI (transferred)
-- **BSc Engineering Physics:** <img src="assets/img/logo-polimi.svg" width="14" height="14" alt="Politecnico di Milano" /> Politecnico di Milano
+- **MSc Neuro-X (Data Science & Computational Neuroscience):** EPFL
+- **MSc Nuclear Engineering:** ETH Zürich / EPFL / PSI (transferred)
+- **BSc Engineering Physics:** Politecnico di Milano
