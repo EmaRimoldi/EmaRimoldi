@@ -22,15 +22,19 @@ If you’re interested in collaborating — or just having a quick chat — feel
 
 ### Research & Experience
 
-- **Visiting Researcher:** [MIT](https://www.mit.edu/) (Cambridge, MA)
-- **AI Research Intern:** [Idiap Research Institute](https://www.idiap.ch/) (Martigny, Switzerland)
-- **AI Research Intern:** [Logitech](https://www.logitech.com/) Switzerland, CTO Research Office
-- **Research Intern:** [Campus Biotech](https://campusbiotech.ch/) (Geneva, Switzerland)
+| Role | Location |
+|:--|--:|
+| **Visiting Researcher:** [MIT](https://www.mit.edu/) | Cambridge, MA |
+| **AI Research Intern:** [Idiap Research Institute](https://www.idiap.ch/) | Martigny, Switzerland |
+| **AI Research Intern:** [Logitech](https://www.logitech.com/) Switzerland, CTO Research Office | Lausanne, Switzerland |
+| **Research Intern:** [Campus Biotech](https://campusbiotech.ch/) | Geneva, Switzerland |
 
 ---
 
 ### Education
 
-- **MSc Neuro-X (Data Science & Computational Neuroscience):** [EPFL](https://www.epfl.ch/)
-- **MSc Nuclear Engineering:** [ETH Zürich](https://ethz.ch/) / [EPFL](https://www.epfl.ch/) / [PSI](https://www.psi.ch/) (transferred)
-- **BSc Engineering Physics:** [Politecnico di Milano](https://www.polimi.it/)
+| Program | Location |
+|:--|--:|
+| **MSc Neuro-X (Data Science & Computational Neuroscience):** [EPFL](https://www.epfl.ch/) | Lausanne, Switzerland |
+| **MSc Nuclear Engineering:** [ETH Zürich](https://ethz.ch/) / [EPFL](https://www.epfl.ch/) / [PSI](https://www.psi.ch/) *(transferred)* | Zürich / Lausanne / Villigen, Switzerland |
+| **BSc Engineering Physics:** [Politecnico di Milano](https://www.polimi.it/) | Milan, Italy |
