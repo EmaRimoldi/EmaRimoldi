@@ -1,8 +1,8 @@
-Hi there 😄 I'm Emanuele.
+Hi there 😄 I'm Emanuele!
 
-I'm a Visiting Researcher at [MIT](https://www.mit.edu/), fortunately advised by [Pierfrancesco Beneventano](https://scholar.google.com/citations?user=spL439oAAAAJ) and [Tomaso Poggio](https://scholar.google.com/citations?user=WgAGy7wAAAAJ) — I spend my days trying to pin down the mathematical foundations of **agentic AI**: how learning, generalization, and reasoning show up when something actually *acts* in the world 🧠📐
+I'm **currently** a Visiting Researcher at [MIT](https://www.mit.edu/), advised by [Pierfrancesco Beneventano](https://scholar.google.com/citations?user=spL439oAAAAJ) and [Tomaso Poggio](https://scholar.google.com/citations?user=WgAGy7wAAAAJ). My focus these days is on **agentic systems**, **fundamental limits of AI systems**, and **theorems about training neural networks** — the kind of questions you answer with pencil-and-paper first, experiments second 🧠📐
 
-Before that I was a research intern in the [Logitech](https://www.logitech.com/) CTO Research Office (hi [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ)!), poking at pretraining and post-training for foundation models, and at the [Idiap Research Institute](https://www.idiap.ch/) with [Phil Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ), where bio-inspired TTS and spiking neural networks were the excuse to make silicon behave a little less silicon-like 🔊⚡
+Before that I was a research intern in the [Logitech](https://www.logitech.com/) CTO Research Office (hi [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ)!), poking at pretraining and post-training for foundation models, and at the [Idiap Research Institute](https://www.idiap.ch/) with [Phil Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ), where I worked on **bio-inspired text-to-speech** and **spiking neural networks** — speech models with brain-like dynamics instead of only “standard” deep nets 🔊⚡
 
 **Education (the short version):** I'm chasing an [MSc in Neuro-X](https://www.epfl.ch/) (Data Science & Computational Neuroscience) after a scenic detour through [nuclear engineering](https://ethz.ch/) at ETH/EPFL/[PSI](https://www.psi.ch/) and a BSc in engineering physics at [Polimi](https://www.polimi.it/) — same person, progressively weirder research questions.
 
