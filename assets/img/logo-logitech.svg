@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Logitech">
+  <rect width="256" height="256" fill="none"/>
+  <path fill="#111111" d="M128 56a72 72 0 1 0 72 72h-22a50 50 0 1 1-50-50V56z"/>
+  <path fill="#111111" d="M146 128h54v22h-54v-22z"/>
+</svg>
