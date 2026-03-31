@@ -1,6 +1,6 @@
 <h2><strong>Hi there 😄 I'm Emanuele!</strong></h2>
 
-I'm **currently** a Visiting Researcher at **MIT**, **fortunately** advised by [Pierfrancesco Beneventano](https://scholar.google.com/citations?user=spL439oAAAAJ) and [Tomaso Poggio](https://scholar.google.com/citations?user=WgAGy7wAAAAJ). I work on **agentic systems**, **fundamental limits of AI**, and **theorems about training neural networks**.
+I'm **currently** a Visiting Researcher at **MIT**, fortunately advised by [Pierfrancesco Beneventano](https://scholar.google.com/citations?user=spL439oAAAAJ) and [Tomaso Poggio](https://scholar.google.com/citations?user=WgAGy7wAAAAJ). I work on **agentic systems**, **fundamental limits of AI**, and **theorems about training neural networks**.
 
 At **Logitech**’s CTO office I researched foundation models with [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ); at **Idiap** with [Phil Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ) I worked on **bio-inspired TTS** and **spiking neural networks**.
 
