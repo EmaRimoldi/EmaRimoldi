@@ -18,6 +18,24 @@ If you’re interested in collaborating — or just having a quick chat — feel
   <a href="https://emarimoldi.github.io/EmaRimoldi" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
 </p>
 
+<p align="left">
+  <img src="assets/img/logo-mit.svg" width="18" height="18" alt="MIT" />
+  &nbsp;
+  <img src="assets/img/logo-idiap.svg" width="18" height="18" alt="Idiap" />
+  &nbsp;
+  <img src="assets/img/logo-logitech.svg" width="18" height="18" alt="Logitech" />
+  &nbsp;
+  <img src="assets/img/logo-campusbiotech.svg" width="18" height="18" alt="Campus Biotech" />
+  &nbsp;
+  <img src="assets/img/logo-epfl.svg" width="18" height="18" alt="EPFL" />
+  &nbsp;
+  <img src="assets/img/logo-ethz.svg" width="18" height="18" alt="ETH Zürich" />
+  &nbsp;
+  <img src="assets/img/logo-psi.svg" width="18" height="18" alt="PSI" />
+  &nbsp;
+  <img src="assets/img/logo-polimi.svg" width="18" height="18" alt="Politecnico di Milano" />
+</p>
+
 ---
 
 ### Research & Experience
