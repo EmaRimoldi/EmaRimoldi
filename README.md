@@ -4,7 +4,7 @@ I'm **currently** a Visiting Researcher at **MIT**, fortunately advised by [Pier
 
 At **Logitech**’s CTO office I researched foundation models with [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ); at **Idiap** with [Phil Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ) I worked on **bio-inspired TTS** and **spiking neural networks**.
 
-**Education:** **Polimi** (BSc, Applied Physics) → **ETH Zurich / EPFL / PSI** (MSc, Nuclear Engineering) → **EPFL** (MSc Data Science). 
+**Education:** **Polimi** (BSc, Applied Physics) → **ETH Zurich / EPFL / PSI** (MSc, Nuclear Engineering) → **EPFL** (MSc, Data Science). 
 
 If you want to collaborate or swap ideas, say hi — I’m always happy to learn from other people’s notebooks 🤝
 
