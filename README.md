@@ -3,7 +3,7 @@
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile/intro-mobile-dark.svg">
     <source media="(max-width: 600px)" srcset="assets/profile/intro-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile/intro-dark.svg">
-    <img src="assets/profile/intro-light.svg" width="960" alt="Emanuele Rimoldi — Researcher at MIT. An animated ASCII iris echoes my personal website.">
+    <img src="assets/profile/intro-light.svg" width="960" alt="Emanuele Rimoldi — Researcher at MIT.">
   </picture>
 </a>
 
