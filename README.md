@@ -1,19 +1,31 @@
-<h2><strong>Hi there 😄 I'm Emanuele!</strong></h2>
+# Emanuele Rimoldi
 
-I'm **currently** a Visiting Researcher at **MIT**, fortunately advised by [Pierfrancesco Beneventano](https://scholar.google.com/citations?user=spL439oAAAAJ) and [Tomaso Poggio](https://scholar.google.com/citations?user=WgAGy7wAAAAJ). I work on **agentic systems**, **ML theory**, and **neural networks training**.
+Researcher at **MIT**
 
-At **Logitech**’s CTO office I researched foundation models with [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ); at **Idiap** with [Phil Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ) I worked on **bio-inspired TTS** and **spiking neural networks**.
+[Website](https://www.emanuelerimoldi.com/) · [Google Scholar](https://scholar.google.com/citations?user=DgoQHfQAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/emanuele-rimoldi/) · [Email](mailto:emanuelerimoldi7@gmail.com)
 
-**Education:** **Polimi** (BSc, Applied Physics) → **ETH Zurich / EPFL / PSI** (MSc, Nuclear Engineering) → **EPFL** (MSc, Data Science). 
+I work on **multi-agent systems for scientific discovery** and **knowledge distillation through reinforcement learning**. My research also covers verification of open-ended tasks, including learning without an external verifier, and the evaluation and benchmarking of agentic systems.
 
-If you want to collaborate or swap ideas, say hi — I’m always happy to learn from other people’s notebooks 🤝
+Previously, I worked on foundation-model pre-training and post-training in **Logitech’s CTO Office** with [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ), and on bio-inspired text-to-speech and spiking neural networks at **Idiap Research Institute** with [Philip N. Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ).
 
-<p align="left">
-  <a href="mailto:emanuelerimoldi7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/emanuele-rimoldi" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://github.com/EmaRimoldi" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  &nbsp;
-  <a href="https://emarimoldi.github.io/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
-</p>
+My background spans Applied Physics at **Politecnico di Milano**, Nuclear Engineering at **ETH Zurich / EPFL / PSI**, and Data Science at **EPFL**.
+
+## Research interests
+
+- **Reinforcement learning & feedback** — reward design, imperfect feedback, and transferring skills between models.
+- **Evaluation & verification** — measuring reasoning and behavior when there is no single correct answer.
+- **Reasoning & AI agents** — tool use, coordination, and collaborative problem solving.
+- **Representations & generalization** — understanding what models learn and what transfers across tasks.
+
+## Selected projects
+
+| Project | Focus |
+| :--- | :--- |
+| [**How to Pick a Model**](https://github.com/EmaRimoldi/how-to-pick-a-model) | Deployment-aware model and agent selection: theory, executable benchmarks, routing experiments, and reproducible evidence. |
+| [**RealDoor**](https://github.com/EmaRimoldi/realdoor) · [Demo](https://realdoor-boston.vercel.app/) | An AI-assisted workspace for affordable-housing applications, with evidence-linked extraction, applicant confirmation, and packets for human review. |
+| [**HateLens**](https://github.com/EmaRimoldi/HateLens) | Parameter-efficient fine-tuning of language models, with cross-dataset evaluation, functional robustness checks, and calibration. |
+| [**Luma Profile Review**](https://github.com/EmaRimoldi/luma-profile-review) | A local CLI and agent skill for reviewing event participants against explicit criteria, with source-linked evidence and resumable evaluation. |
+
+[Research & publications](https://www.emanuelerimoldi.com/#research) · [More projects](https://github.com/EmaRimoldi?tab=repositories)
+
+I’m always open to collaboration and exchanging ideas. [Stay in touch](mailto:emanuelerimoldi7@gmail.com).
