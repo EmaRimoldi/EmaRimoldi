@@ -6,7 +6,7 @@ const out = new URL('../assets/profile/', import.meta.url);
 await mkdir(out, { recursive: true });
 for (const mobile of [false, true]) {
   for (const dark of [false, true]) {
-    const width = mobile ? 440 : 960, height = mobile ? 176 : 176;
+    const width = mobile ? 440 : 960, height = mobile ? 156 : 144;
     const ink = dark ? '#f0f1ed' : '#191d1b';
     const muted = dark ? '#a9b1ac' : '#58605b';
     const name = mobile
