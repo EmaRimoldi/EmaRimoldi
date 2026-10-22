@@ -2,7 +2,7 @@
 
 Researcher at **MIT**
 
-[Website](https://www.emanuelerimoldi.com/) · [Google Scholar](https://scholar.google.com/citations?user=DgoQHfQAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/emanuele-rimoldi/) · [Email](mailto:emanuelerimoldi7@gmail.com)
+[Website](https://www.emanuelerimoldi.com/) · [Google Scholar](https://scholar.google.com/citations?user=DgoQHfQAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/emanuele-rimoldi/) · [X](https://x.com/RimoldiEma) · [CV (PDF)](https://www.emanuelerimoldi.com/documents/Emanuele_Rimoldi_CV.pdf) · [Email](mailto:emanuelerimoldi7@gmail.com)
 
 I work on **multi-agent systems for scientific discovery** and **knowledge distillation through reinforcement learning**. My research also covers verification of open-ended tasks, including learning without an external verifier, and the evaluation and benchmarking of agentic systems.
 
@@ -26,6 +26,6 @@ My background spans Applied Physics at **Politecnico di Milano**, Nuclear Engine
 | [**HateLens**](https://github.com/EmaRimoldi/HateLens) | Parameter-efficient fine-tuning of language models, with cross-dataset evaluation, functional robustness checks, and calibration. |
 | [**Luma Profile Review**](https://github.com/EmaRimoldi/luma-profile-review) | A local CLI and agent skill for reviewing event participants against explicit criteria, with source-linked evidence and resumable evaluation. |
 
-[Research & publications](https://www.emanuelerimoldi.com/#research) · [More projects](https://github.com/EmaRimoldi?tab=repositories)
+[Research & publications](https://www.emanuelerimoldi.com/#research) · [Projects on my website](https://www.emanuelerimoldi.com/#projects) · [All repositories](https://github.com/EmaRimoldi?tab=repositories)
 
 I’m always open to collaboration and exchanging ideas. [Stay in touch](mailto:emanuelerimoldi7@gmail.com).
