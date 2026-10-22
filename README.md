@@ -1,9 +1,9 @@
 <a href="https://www.emanuelerimoldi.com/" title="Explore my website">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile/intro-mobile-dark.svg?v=c0d3b73">
-    <source media="(max-width: 600px)" srcset="assets/profile/intro-mobile-light.svg?v=c0d3b73">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/intro-dark.svg?v=c0d3b73">
-    <img src="assets/profile/intro-light.svg?v=c0d3b73" width="960" alt="Emanuele Rimoldi — Researcher at MIT.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-dark.svg">
+    <img src="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-light.svg" width="960" alt="Emanuele Rimoldi — Researcher at MIT.">
   </picture>
 </a>
 
