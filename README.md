@@ -1,31 +1,30 @@
-# Emanuele Rimoldi
+<a href="https://www.emanuelerimoldi.com/" title="Explore my website">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile/intro-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/profile/intro-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/intro-dark.svg">
+    <img src="assets/profile/intro-light.svg" width="960" alt="Emanuele Rimoldi — Researcher at MIT. An animated ASCII iris echoes my personal website.">
+  </picture>
+</a>
 
-Researcher at **MIT**
+I’m a researcher at [MIT](https://www.mit.edu/ "Massachusetts Institute of Technology") working on [multi-agent systems for scientific discovery](https://openreview.net/forum?id=iAfYyiCzev "Agent Systems for Academic Research Automation") and [knowledge distillation through reinforcement learning](https://www.emanuelerimoldi.com/#research "Research and publications"). I also study how to [evaluate and verify agentic systems](https://arxiv.org/abs/2605.10851 "Generalizing the Turing Test to Interactive Agents") when tasks are open-ended, including settings without an external verifier.
 
-[Website](https://www.emanuelerimoldi.com/) · [Google Scholar](https://scholar.google.com/citations?user=DgoQHfQAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/emanuele-rimoldi/) · [X](https://x.com/RimoldiEma) · [CV (PDF)](https://www.emanuelerimoldi.com/documents/Emanuele_Rimoldi_CV.pdf) · [Email](mailto:emanuelerimoldi7@gmail.com)
+<details>
+<summary><samp>background +</samp></summary>
 
-I work on **multi-agent systems for scientific discovery** and **knowledge distillation through reinforcement learning**. My research also covers verification of open-ended tasks, including learning without an external verifier, and the evaluation and benchmarking of agentic systems.
+Before MIT, I worked on foundation-model pre-training and post-training in **Logitech’s CTO Office** with [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ), and on bio-inspired text-to-speech and spiking neural networks at **Idiap Research Institute** with [Philip N. Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ).
 
-Previously, I worked on foundation-model pre-training and post-training in **Logitech’s CTO Office** with [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ), and on bio-inspired text-to-speech and spiking neural networks at **Idiap Research Institute** with [Philip N. Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ).
+I studied Applied Physics at [Politecnico di Milano](https://www.polimi.it/en/), then Nuclear Engineering at [ETH Zurich](https://ethz.ch/en.html), [EPFL](https://www.epfl.ch/en/), and [PSI](https://www.psi.ch/en), before moving into Data Science at [EPFL](https://www.epfl.ch/en/).
 
-My background spans Applied Physics at **Politecnico di Milano**, Nuclear Engineering at **ETH Zurich / EPFL / PSI**, and Data Science at **EPFL**.
+</details>
 
-## Research interests
+I’m always open to collaboration and exchanging ideas. Stay in touch.
 
-- **Reinforcement learning & feedback** — reward design, imperfect feedback, and transferring skills between models.
-- **Evaluation & verification** — measuring reasoning and behavior when there is no single correct answer.
-- **Reasoning & AI agents** — tool use, coordination, and collaborative problem solving.
-- **Representations & generalization** — understanding what models learn and what transfers across tasks.
-
-## Selected projects
-
-| Project | Focus |
-| :--- | :--- |
-| [**How to Pick a Model**](https://github.com/EmaRimoldi/how-to-pick-a-model) | Deployment-aware model and agent selection: theory, executable benchmarks, routing experiments, and reproducible evidence. |
-| [**RealDoor**](https://github.com/EmaRimoldi/realdoor) · [Demo](https://realdoor-boston.vercel.app/) | An AI-assisted workspace for affordable-housing applications, with evidence-linked extraction, applicant confirmation, and packets for human review. |
-| [**HateLens**](https://github.com/EmaRimoldi/HateLens) | Parameter-efficient fine-tuning of language models, with cross-dataset evaluation, functional robustness checks, and calibration. |
-| [**Luma Profile Review**](https://github.com/EmaRimoldi/luma-profile-review) | A local CLI and agent skill for reviewing event participants against explicit criteria, with source-linked evidence and resumable evaluation. |
-
-[Research & publications](https://www.emanuelerimoldi.com/#research) · [Projects on my website](https://www.emanuelerimoldi.com/#projects) · [All repositories](https://github.com/EmaRimoldi?tab=repositories)
-
-I’m always open to collaboration and exchanging ideas. [Stay in touch](mailto:emanuelerimoldi7@gmail.com).
+<p>
+  <a href="https://www.emanuelerimoldi.com/"><samp>website&nbsp;↗</samp></a> &nbsp;
+  <a href="https://scholar.google.com/citations?user=DgoQHfQAAAAJ&amp;hl=en"><samp>scholar&nbsp;↗</samp></a> &nbsp;
+  <a href="https://www.linkedin.com/in/emanuele-rimoldi/"><samp>linkedin&nbsp;↗</samp></a> &nbsp;
+  <a href="https://x.com/RimoldiEma"><samp>x&nbsp;↗</samp></a> &nbsp;
+  <a href="https://www.emanuelerimoldi.com/documents/Emanuele_Rimoldi_CV.pdf"><samp>cv&nbsp;↗</samp></a> &nbsp;
+  <a href="mailto:emanuelerimoldi7@gmail.com"><samp>email&nbsp;↗</samp></a>
+</p>
