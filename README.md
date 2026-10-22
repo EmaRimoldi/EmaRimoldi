@@ -21,10 +21,10 @@ I studied Applied Physics at [Politecnico di Milano](https://www.polimi.it/en/),
 I’m always open to collaboration and exchanging ideas. Stay in touch.
 
 <p>
-  <a href="https://www.emanuelerimoldi.com/" title="Website"><img src="assets/social/website.svg" width="24" height="24" alt="Website" align="middle"></a> &nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=DgoQHfQAAAAJ&amp;hl=en" title="Google Scholar"><img src="assets/social/google-scholar.svg" width="24" height="24" alt="Google Scholar" align="middle"></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/emanuele-rimoldi/" title="LinkedIn"><img src="assets/social/linkedin.svg" width="24" height="24" alt="LinkedIn" align="middle"></a> &nbsp;&nbsp;
-  <a href="https://x.com/RimoldiEma" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/x-dark.svg"><img src="assets/social/x-light.svg" width="24" height="24" alt="X" align="middle"></picture></a> &nbsp;&nbsp;
-  <a href="https://www.emanuelerimoldi.com/documents/Emanuele_Rimoldi_CV.pdf" title="CV"><img src="assets/social/cv.svg" width="24" height="24" alt="CV" align="middle"></a> &nbsp;&nbsp;
-  <a href="mailto:emanuelerimoldi7@gmail.com" title="Email"><img src="assets/social/email.svg" width="24" height="24" alt="Email" align="middle"></a>
+  <a href="https://www.emanuelerimoldi.com/" title="Website"><img src="assets/social/website.svg" width="20" height="20" alt="Website" align="middle"></a> &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=DgoQHfQAAAAJ&amp;hl=en" title="Google Scholar"><img src="assets/social/google-scholar.svg" width="20" height="20" alt="Google Scholar" align="middle"></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/emanuele-rimoldi/" title="LinkedIn"><img src="assets/social/linkedin.svg" width="20" height="20" alt="LinkedIn" align="middle"></a> &nbsp;&nbsp;
+  <a href="https://x.com/RimoldiEma" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/x-dark.svg"><img src="assets/social/x-light.svg" width="20" height="20" alt="X" align="middle"></picture></a> &nbsp;&nbsp;
+  <a href="https://www.emanuelerimoldi.com/documents/Emanuele_Rimoldi_CV.pdf" title="CV"><img src="assets/social/cv.svg" width="20" height="20" alt="CV" align="middle"></a> &nbsp;&nbsp;
+  <a href="mailto:emanuelerimoldi7@gmail.com" title="Email"><img src="assets/social/email.svg" width="20" height="20" alt="Email" align="middle"></a>
 </p>
