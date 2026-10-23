@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="156" viewBox="0 0 440 156" role="img" aria-labelledby="title desc">
-<title id="title">Emanuele Rimoldi — Researcher at MIT</title>
-<desc id="desc">Emanuele Rimoldi, Researcher at MIT.</desc>
+<title id="title">Emanuele Rimoldi — Visiting student at MIT</title>
+<desc id="desc">Emanuele Rimoldi, Visiting student at MIT.</desc>
 <style>
 .name{font:400 42px Arial,Helvetica,sans-serif;letter-spacing:-1.5px;fill:#191d1b}
 .role{font:400 19px Arial,Helvetica,sans-serif;fill:#58605b}
 </style>
 <text x="0" y="54" class="name">Emanuele</text><text x="0" y="101" class="name">Rimoldi</text>
-<text x="1" y="142" class="role">Researcher at MIT</text>
+<text x="1" y="142" class="role">Visiting student at MIT</text>
 </svg>
