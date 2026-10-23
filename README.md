@@ -1,13 +1,13 @@
 <a href="https://www.emanuelerimoldi.com/" title="Explore my website">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-dark.svg">
-    <img src="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-light.svg" width="960" alt="Emanuele Rimoldi — Visiting student at MIT.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/ef232d133d9a60a0576d28c28a9045bf371828dc/assets/profile/intro-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/ef232d133d9a60a0576d28c28a9045bf371828dc/assets/profile/intro-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/ef232d133d9a60a0576d28c28a9045bf371828dc/assets/profile/intro-dark.svg">
+    <img src="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/ef232d133d9a60a0576d28c28a9045bf371828dc/assets/profile/intro-light.svg" width="960" alt="Emanuele Rimoldi — Visiting student at MIT.">
   </picture>
 </a>
 
-I’m a visiting student at [Massachusetts Institute of Technology](https://www.mit.edu/ "Massachusetts Institute of Technology") working on [multi-agent systems for scientific discovery](https://openreview.net/forum?id=iAfYyiCzev "Agent Systems for Academic Research Automation") and [knowledge distillation through reinforcement learning](https://www.emanuelerimoldi.com/#research "Research and publications"). I also study how to [evaluate and verify agentic systems](https://arxiv.org/abs/2605.10851 "Generalizing the Turing Test to Interactive Agents") when tasks are open-ended, including settings without an external verifier.
+I’m a visiting student at [Massachusetts Institute of Technology](https://www.mit.edu/ "Massachusetts Institute of Technology") working on [multi-agent systems for scientific discovery](https://openreview.net/forum?id=iAfYyiCzev "Agent Systems for Academic Research Automation") and [knowledge distillation through reinforcement learning](https://www.emanuelerimoldi.com/#research "Research and publications"). I’m interested in how to [evaluate and verify agentic systems](https://arxiv.org/abs/2605.10851 "Generalizing the Turing Test to Interactive Agents") when tasks are open-ended, including settings without an external verifier.
 
 <details>
 <summary><samp>background +</samp></summary>
