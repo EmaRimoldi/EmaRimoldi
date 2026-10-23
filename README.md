@@ -7,7 +7,7 @@
   </picture>
 </a>
 
-I’m a visiting student at [Massachusetts Institute of Technology](https://www.mit.edu/ "Massachusetts Institute of Technology") working on [multi-agent systems for scientific discovery](https://openreview.net/forum?id=iAfYyiCzev "Agent Systems for Academic Research Automation") and [knowledge distillation through reinforcement learning](https://www.emanuelerimoldi.com/#research "Research and publications"). I’m interested in how to [evaluate and verify agentic systems](https://arxiv.org/abs/2605.10851 "Generalizing the Turing Test to Interactive Agents") when tasks are open-ended, including settings without an external verifier.
+I’m a visiting student at Massachusetts Institute of Technology working on **multi-agent systems** and **knowledge distillation through reinforcement learning**. I’m also interested in how to **evaluate and verify agentic systems** when tasks are open-ended, including settings without an external verifier.
 
 <details>
 <summary><samp>background +</samp></summary>
