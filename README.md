@@ -7,12 +7,12 @@
   </picture>
 </a>
 
-I’m a visiting student at Massachusetts Institute of Technology working on **multi-agent systems** and **knowledge distillation through reinforcement learning**. I’m also interested in how to **evaluate and verify agentic systems** when tasks are open-ended, including settings without an external verifier.
+I’m a visiting student at [Massachusetts Institute of Technology](https://www.mit.edu/) working on **multi-agent systems** and **knowledge distillation through reinforcement learning**. I’m also interested in how to **evaluate and verify agentic systems** when tasks are open-ended, including settings without an external verifier.
 
 <details>
 <summary><samp>background +</samp></summary>
 
-Before MIT, I worked on foundation-model pre-training and post-training in **Logitech’s CTO Office** with [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ), and on bio-inspired text-to-speech and spiking neural networks at **Idiap Research Institute** with [Philip N. Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ).
+Before MIT, I worked on foundation-model pre-training and post-training in [**Logitech’s CTO Office**](https://www.logitech.com/) with [Jonathan Dan](https://scholar.google.com/citations?user=0uHd7XIAAAAJ), and on bio-inspired text-to-speech and spiking neural networks at [**Idiap Research Institute**](https://www.idiap.ch/en) with [Philip N. Garner](https://scholar.google.com/citations?user=c9nAX2AAAAAJ).
 
 I studied Applied Physics at [Politecnico di Milano](https://www.polimi.it/en/), then Nuclear Engineering at [ETH Zurich](https://ethz.ch/en.html), [EPFL](https://www.epfl.ch/en/), and [PSI](https://www.psi.ch/en), before moving into Data Science at [EPFL](https://www.epfl.ch/en/).
 
