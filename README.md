@@ -3,7 +3,7 @@
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-mobile-dark.svg">
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-dark.svg">
-    <img src="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-light.svg" width="960" alt="Emanuele Rimoldi — Researcher at MIT.">
+    <img src="https://raw.githubusercontent.com/EmaRimoldi/EmaRimoldi/c0d3b73ca6d1b34360cf0a913c28ee8165a002cf/assets/profile/intro-light.svg" width="960" alt="Emanuele Rimoldi — Visiting student at MIT.">
   </picture>
 </a>
 
